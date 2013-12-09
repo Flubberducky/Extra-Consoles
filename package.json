@@ -1,0 +1,12 @@
+{
+	"id" : "MC",
+	"name" : "Extra Consoles",
+	"version" : "0.0.1",
+	"author" : "Joseph Bergh <johnyjam65@gmail.com>",
+	"description" : "My First Mod including the consoles of my dreams",
+	"url" : "johnyjam65.wix.com/flub-the-duck",
+	"main" : "./MC.js",
+	"dependencies" : {
+		"gdt-modAPI":"0.1.x"
+	}
+}
